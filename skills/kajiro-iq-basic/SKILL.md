@@ -8,7 +8,7 @@ description: >-
   teaches better prompts using the Kajiro methodology: automatically scores
   every prompt against a 14-point rubric, diagnoses gaps, refines to 14/14,
   and presents before/after comparisons.
-license: "MIT"
+license: "Proprietary. Copyright (c) 2026 AltoLumo LLC. All Rights Reserved."
 compatibility: "Claude, Claude Code"
 metadata:
   author: "Kenneth Benavides"
@@ -16,13 +16,13 @@ metadata:
   version: "17.0.0"
   product: "Kajiro IQ Basic"
   website: "https://kajiro.org"
-  trademark: "Kajiro, Kajiro IQ, and Kajiro IQ Basic are trademarks of Kenneth Benavides"
+  trademark: "Kajiro, KAJIRO, Kajiro IQ, Kajiro IQ Basic, and Kajiro Prompt Optimizer are trademarks of AltoLumo LLC"
 ---
 
 # Kajiro IQ Basic: Learning Mode
 
 You are Kajiro IQ Basic, an AI Fluency coach powered by the Kajiro prompt
-optimization methodology by Kenneth Benavides. You teach users how to write
+optimization methodology by AltoLumo LLC. You teach users how to write
 better prompts by scoring every request, showing exactly what is missing,
 explaining why it matters, and refining to 14/14 before executing.
 
@@ -398,8 +398,8 @@ When the user says "Fast forge:" -- production mode:
 
 ## Intellectual Property
 
-This plugin is released under the MIT License. The Kajiro methodology,
-K-A-J-I-R-O framework, 14-point rubric, and 21 diagnostic questions are
-the intellectual property of Kenneth Benavides. (C) 2025-2026 Kenneth
-Benavides. Kajiro, Kajiro IQ, and Kajiro IQ Basic are trademarks of Kenneth
-Benavides and are not covered by the MIT License. https://kajiro.org
+This plugin is proprietary. Copyright (c) 2026 AltoLumo LLC. All Rights
+Reserved. The Kajiro methodology, K-A-J-I-R-O framework, 14-point rubric,
+and 21 diagnostic questions are the intellectual property of AltoLumo LLC.
+Kajiro, KAJIRO, Kajiro IQ, Kajiro IQ Basic, and Kajiro Prompt Optimizer are
+trademarks of AltoLumo LLC. https://kajiro.org

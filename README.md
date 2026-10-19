@@ -66,10 +66,10 @@ Claude Code automatically loads skills from `~/.claude/skills/` on startup.
 
 ## License
 
-MIT License. Copyright (C) 2025-2026 Kenneth Benavides.
+Proprietary. Copyright (c) 2026 AltoLumo LLC. All Rights Reserved. See [LICENSE](LICENSE).
 
 The Kajiro methodology, K-A-J-I-R-O framework, 14-point rubric, and 21 diagnostic questions
-are the intellectual property of Kenneth Benavides and are not covered by the MIT License.
-Kajiro, Kajiro IQ, and Kajiro IQ Basic are trademarks of Kenneth Benavides.
+are the intellectual property of AltoLumo LLC.
+Kajiro, KAJIRO, Kajiro IQ, Kajiro IQ Basic, and Kajiro Prompt Optimizer are trademarks of AltoLumo LLC.
 
 https://kajiro.org
